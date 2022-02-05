@@ -15,4 +15,9 @@ Projeto feito em javascript, seguindo o tutorial do Marco Bruno no youtube.
    ```sh
    npm install
    ```
+3 - Execução do projeto
+   ```sh
+   npm run dev
+   ```
+
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
