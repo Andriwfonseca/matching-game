@@ -1,10 +1,10 @@
 import './style.css';
 
-const CardGame = () =>{
+const CardGame = () =>{   
 
     return `
         <article class="card-game">
-            <img src="./src/images/alura-pixel.png" alt="Logo da Alura">
+            <img "class="img" onclick="turnCard()" src="./src/images/alura-pixel.png" alt="Logo da Alura">
         </article>
     `;
 }
