@@ -3,8 +3,6 @@
 
 Projeto feito em javascript, seguindo o tutorial do Marco Bruno no youtube.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Como começar
@@ -17,4 +15,4 @@ Projeto feito em javascript, seguindo o tutorial do Marco Bruno no youtube.
    ```sh
    npm install
    ```
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Voltar para o topo</a>)</p>
