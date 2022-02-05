@@ -4,7 +4,7 @@ const CardGame = () =>{
 
     return `
         <article class="card-game">
-            CardGame
+            <img src="./src/images/alura-pixel.png" alt="Logo da Alura">
         </article>
     `;
 }
