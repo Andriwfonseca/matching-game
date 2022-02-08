@@ -1,3 +1,4 @@
+import PlayerScore from "../PlayerScore";
 import "./style.css";
 
 const PlayerName = (content) =>{

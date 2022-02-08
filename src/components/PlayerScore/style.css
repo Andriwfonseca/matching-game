@@ -1,0 +1,16 @@
+.score-points{
+    display: flex;
+    background-color: var(--color-fiery-rose);
+    width: 5.0rem;
+    height: 2.0rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.points{
+    background-color: #828282;
+    Width: 1.4rem;
+    Height: 1.4rem;
+    border: 1px solid white;
+    
+}
